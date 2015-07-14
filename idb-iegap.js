@@ -241,8 +241,6 @@
         }
     }
 
-    //This code was adapted from: https://github.com/yathit/ydn-db.
-    //All credits and rights go to their respective owners.
     var YDNEncoder = (function() {
         var p16 = 0x10000;
         var p32 = 0x100000000;
